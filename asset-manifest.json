@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AgapeCapstoneProject/static/css/main.9c694eec.css",
-    "main.js": "/AgapeCapstoneProject/static/js/main.6a032ddf.js",
+    "main.css": "/AgapeCapstoneProject/static/css/main.f131938d.css",
+    "main.js": "/AgapeCapstoneProject/static/js/main.b500442a.js",
     "static/js/952.4b5afb09.chunk.js": "/AgapeCapstoneProject/static/js/952.4b5afb09.chunk.js",
     "static/js/453.374ca287.chunk.js": "/AgapeCapstoneProject/static/js/453.374ca287.chunk.js",
     "static/media/food.jpg": "/AgapeCapstoneProject/static/media/food.9ab05efbda13b79ea001.jpg",
@@ -11,13 +11,13 @@
     "static/media/Garet-Book.otf": "/AgapeCapstoneProject/static/media/Garet-Book.10cd0ab2fec081ace003.otf",
     "static/media/FuturaStdBold.otf": "/AgapeCapstoneProject/static/media/FuturaStdBold.fe9bd26c044eb0bfaa28.otf",
     "index.html": "/AgapeCapstoneProject/index.html",
-    "main.9c694eec.css.map": "/AgapeCapstoneProject/static/css/main.9c694eec.css.map",
-    "main.6a032ddf.js.map": "/AgapeCapstoneProject/static/js/main.6a032ddf.js.map",
+    "main.f131938d.css.map": "/AgapeCapstoneProject/static/css/main.f131938d.css.map",
+    "main.b500442a.js.map": "/AgapeCapstoneProject/static/js/main.b500442a.js.map",
     "952.4b5afb09.chunk.js.map": "/AgapeCapstoneProject/static/js/952.4b5afb09.chunk.js.map",
     "453.374ca287.chunk.js.map": "/AgapeCapstoneProject/static/js/453.374ca287.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c694eec.css",
-    "static/js/main.6a032ddf.js"
+    "static/css/main.f131938d.css",
+    "static/js/main.b500442a.js"
   ]
 }
