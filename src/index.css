@@ -72,7 +72,7 @@ body {
 
 .instructionImg {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   border: 1px solid black;
   align-items: center;
   width: 95%;
@@ -82,7 +82,7 @@ body {
 .instructionImg img {
   width: 150px;
   height: 150px;
-  padding: 1%;
+  padding: 1% 0%;
   border-radius: 10px;
   object-fit: cover;
 }
@@ -106,11 +106,35 @@ button {
   margin-top: 5%;
 }
 
-form input {
-  margin-top: 3%;
+#productName,
+.showPreview {
+  border: 1px solid black;
   border-radius: 15px;
   padding: 2%;
-  border: 1px solid black;
+  margin-top: 3%;
+}
+
+.showPreview {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: auto;
+}
+
+#file {
+  border-radius: 25px;
+  padding: 2%;
+  font-family: Garet;
+}
+
+.showPreview img {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 1000px;
+  height: 200px;
+  background-color: rgba(0, 0, 0, 0.089);
 }
 
 form button {
